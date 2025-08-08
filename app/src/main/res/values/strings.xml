@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Profesor de Matemáticas</string>
+    <string name="division_problem">División:</string>
+    <string name="quotient_label">Cociente:</string>
+    <string name="remainder_label">Resto:</string>
+    <string name="check_answer">Comprobar</string>
+    <string name="correct_answer">¡Muy bien! ¡Sigue así!</string>
+    <string name="incorrect_answer">¡Repasa el resultado! ¡Tú puedes!</string>
+    <string name="new_problem">Nuevo problema</string>
+    <string name="enter_quotient">Introduce el cociente</string>
+    <string name="enter_remainder">Introduce el resto</string>
+</resources>
