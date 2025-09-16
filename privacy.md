@@ -2,7 +2,7 @@
 
 **Última actualización:** 7 de agosto de 2025
 
-La aplicación **"Divisiones para Niños"**, desarrollada por Rubén Rodríguez, respeta la privacidad de sus usuarios, en especial de los menores. Esta política explica qué información se recopila y cómo se utiliza.
+La aplicación **"Divisiones para Niños"**, desarrollada por Rubén Resino, respeta la privacidad de sus usuarios, en especial de los menores. Esta política explica qué información se recopila y cómo se utiliza.
 
 ### 1. Recopilación de información
 
